@@ -98,7 +98,7 @@ command -v figlet > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e
 command -v lolcat > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing LOLCAT... \e[0m\n\n"; pip install lolcat; logo2; }
 command -v toilet > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing TOILET... \e[0m\n\n";pkg install toilet -y;logo2; }
 command -v cowsay > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing COWSAY... \e[0m\n\n";pkg install cowsay -y;logo2; }
-command -v fish > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing FISH... \e[0m\n\n"; apt install fish -y; logo2; }
+command -v fish > /dev/null 2>&1 || { printf "\n\t\e[0m\e[0m\e[36m[\e[1;37m+\e[36m] \e[34m   Installing FISH... \e[0m\n\n"; pkg install fish -y; logo2; }
 apt install cmake -y
 logo2
 apt install nodejs -y
@@ -175,8 +175,9 @@ printf "\n\n \e[1;91m[\e[1;37m~\e[1;91m] ADDING BANNER FOR STARTUP..."
 sleep 2
 read -p $'  \n\e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Enter name for banner : \e[0m\e[1;96m\en' user_name
 cd $PREFIX/etc
+{
 rm -rvf bash.bashrc
-clear
+} &> /dev/nullclear
 logo
 touch bash.bashrc
 echo "clear" >> bash.bashrc
