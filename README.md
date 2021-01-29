@@ -2,6 +2,9 @@
  <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
  </p>
  
+ <p align="center">
+ <img src="https://i.ibb.co/3pmg7Jw/Screenshot-20210129150107-642x433.png">
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.1-green">
   <img src="https://img.shields.io/github/license/Ign0r3dH4x0r/NextGenTermux">
@@ -17,8 +20,6 @@
 
 <p align="center">SETUP YOUR TERMUX APP WITH ATTRACTIVE CUSTOMIZATION</p>
 
-<p align="center">
- <img src="https://i.ibb.co/3pmg7Jw/Screenshot-20210129150107-642x433.png">
 
 ##
 
