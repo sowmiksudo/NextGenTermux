@@ -113,8 +113,6 @@ apt install clang -y
 logo2
 apt install jq -y
 logo2
-apt install macchanger -y
-logo2
 apt install nano -y
 logo2
 apt install curl -y
@@ -134,8 +132,6 @@ logo2
 apt install openssl -y
 logo2
 apt install openssh -y
-logo2
-apt install java -y
 logo2
 apt install bmon -y
 logo2
