@@ -232,7 +232,7 @@ Deps
 sleep 2
 logo
 sleep 1
-printf "\n\n \e[1;91m[\e[1;37m√\e[1;91m] ALL ESSENTIAL PACKAGES INSTALLED SUCCESSFULLY..."
+printf "\n\n \e[1;91m[\e[1;37m√\e[1;91m] ALL ESSENTIAL PACKAGES INSTALLED SUCCESSFULLY... \n  PLEASE RESTART NOW."
 sleep 3
 # Keys
 logo
