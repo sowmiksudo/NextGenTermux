@@ -46,9 +46,12 @@ $ bash NextGenTermux.sh
 
 ### Note: If you copy any part of this script, then please give me credits.
 
+## AFTER SETUP
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-Shayer--Mahmud--Sowmik-cyan?style=flat-square">
+</p>
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/htr-tech" target="_blank"><img src="https://img.shields.io/badge/Github-Ign0r3dH4x0r-green?style=for-the-badge&logo=github"></a>
-  <a href="https://m.me/Ign0r3dH4x0r" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
+ <img src="https://i.ibb.co/s2SmLZ8/Screenshot-2021-01-29-15-48-09.png"></a>
 </p>
