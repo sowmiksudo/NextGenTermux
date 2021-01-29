@@ -41,6 +41,12 @@ $ bash NextGenTermux.sh
 ```
 
 - Select option "1" for automated setup.
+##
+
+### Single Line Command
+```
+apt update ; apt install git ; git clone git://github.com/Ign0r3dH4x0r/NextGenTermux.git ; cd NextGenTermux ; bash NextGenTermux.sh
+```
 
 ## 
 
