@@ -48,10 +48,5 @@ $ bash NextGenTermux.sh
 
 ## AFTER SETUP
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-Shayer--Mahmud--Sowmik-cyan?style=flat-square">
-</p>
-
-### Find Me on :
-<p align="left">
- <img src="https://i.ibb.co/s2SmLZ8/Screenshot-2021-01-29-15-48-09.png"></a>
+  <img src="https://i.ibb.co/s2SmLZ8/Screenshot-2021-01-29-15-48-09.png">
 </p>
