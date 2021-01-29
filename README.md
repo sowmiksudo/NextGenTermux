@@ -15,17 +15,17 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
-<p align="center">Setup your Android CyberLab at a click!</p>
+<p align="center">SETUP YOUR TERMUX APP WITH ATTRACTIVE CUSTOMIZATION</p>
 
 ##
 
-### Major Features
+### MAJOR FEATURES
 
-- TOO MUCH EASY TO USE
-- AUTOMATICALLY ADDS EXTRA KEYS IN TERMUX
-- INSTALLS ALL THE MAJOR PACKAGES
-- ADDS A BANNER FOR AWESOME LOOK
-- RUNS WITH FISH (FRIENDLY INTERACTIVE SHELL)
+- Too much easy to use! 
+- All processes are automated!
+- Installs all the common packages!
+- Adds a banner on startup for an awesome look!
+- Runs with fish to auto complete commands!
 
 
 ### Installation
@@ -36,7 +36,7 @@ $ cd NextGenTermux
 $ bash NextGenTermux.sh
 ```
 
-- Select option '1' for automated setup.
+- Select option "1" for automated setup.
 
 ##
 
