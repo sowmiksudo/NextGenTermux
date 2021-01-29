@@ -3,7 +3,7 @@
  </p>
  
  <p align="center">
- <a href="https://linktr.ee/Xowmik"><img src="https://i.ibb.co/JFqRq1b/nEXT.png" alt="NextGen" border="0"></a>
+ <a href="https://linktr.ee/Xowmik"><img src="https://i.ibb.co/ynhH5PF/Next-Gen.png" alt="NextGen" border="0"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1-green">
@@ -46,7 +46,8 @@ $ bash NextGenTermux.sh
 
 ### Note: If you copy any part of this script, then please give me credits.
 
-## AFTER SETUP
+## Screenshots
 <p align="center">
+  <img src="https://camo.githubusercontent.com/fca75a91054c6df8218fa59b8615a84440d0523719842475ff3499e5604401b4/68747470733a2f2f692e6962622e636f2f33706d67374a772f53637265656e73686f742d32303231303132393135303130372d363432783433332e706e67">
   <img src="https://i.ibb.co/s2SmLZ8/Screenshot-2021-01-29-15-48-09.png">
 </p>
