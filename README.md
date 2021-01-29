@@ -17,6 +17,9 @@
 
 <p align="center">SETUP YOUR TERMUX APP WITH ATTRACTIVE CUSTOMIZATION</p>
 
+<p align="center">
+ <img src="https://i.ibb.co/3pmg7Jw/Screenshot-20210129150107-642x433.png">
+
 ##
 
 ### MAJOR FEATURES
@@ -38,7 +41,9 @@ $ bash NextGenTermux.sh
 
 - Select option "1" for automated setup.
 
-##
+## 
+
+### Note: If you copy any part of this script, then please give me credits.
 
 
 ### Find Me on :
