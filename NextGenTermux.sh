@@ -147,6 +147,7 @@ pip install termcolor
 
 extra_key(){
   logo
+  sleep 2
   printf "\n \e[1;91m[\e[1;37m~\e[1;91m] SETTING UP ENVIRONMENT..."
   mkdir -p /data/data/com.termux/files/home/.termux
   touch /data/data/com.termux/files/home/.termux/termux.properties
@@ -185,7 +186,7 @@ echo "echo" >> bash.bashrc
 echo "PS1='\$ '" >> bash.bashrc
 echo "fish" >> bash.bashrc
 cd ~/.config/fish/functions
-rm fish_greeting.fish
+rm -rvf fish_greeting.fish
 echo "function fish_greeting" >> fish_greeting.fish
 echo "  printf \"\e[1;33mWelcome \e[1;97m$user_name! \e[1;33mHave a nice day!\e[0m\"\n" >> fish_greeting.fish
 echo "end" >> fish_greeting.fish
