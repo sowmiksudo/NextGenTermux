@@ -85,6 +85,8 @@ printf "\n\n \e[1;91m[\e[1;37m~\e[1;91m] PLEASE CLICK ALLOW IF IT ASKS."
 sleep 1
 termux-setup-storage
 logo2
+dpkg --configure -a
+logo2
 apt update -y
 logo2
 apt upgrade -y
