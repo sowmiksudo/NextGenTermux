@@ -105,8 +105,6 @@ apt install cmake -y
 logo2
 apt install nodejs -y
 logo2
-apt install golang -y
-logo2
 apt install bash -y
 logo2
 apt install clang -y
@@ -127,13 +125,9 @@ apt install tor -y
 logo2
 apt install wget -y
 logo2
-apt install wcalc -y
-logo2
 apt install openssl -y
 logo2
 apt install openssh -y
-logo2
-apt install bmon -y
 logo2
 pip install requests
 pip install mechanize
