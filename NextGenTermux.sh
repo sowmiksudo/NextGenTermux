@@ -109,8 +109,6 @@ apt install bash -y
 logo2
 apt install clang -y
 logo2
-apt install jq -y
-logo2
 apt install nano -y
 logo2
 apt install curl -y
@@ -129,10 +127,10 @@ apt install openssl -y
 logo2
 apt install openssh -y
 logo2
-pip install requests
-pip install mechanize
-pip install lolcat
-pip install termcolor
+pip3 install requests
+pip3 install mechanize
+pip3 install lolcat
+pip3 install termcolor
 }
 
 # EXTRA KEY ADDER
@@ -169,7 +167,8 @@ read -p $'  \n\e[1;31m[\e[0m\e[1;37m~\e[0m\e[1;31m]\e[0m\e[1;92m Enter name for 
 cd $PREFIX/etc
 {
 rm -rvf bash.bashrc
-} &> /dev/nullclear
+} &> /dev/null
+clear
 logo
 touch bash.bashrc
 echo "clear" >> bash.bashrc
@@ -220,18 +219,14 @@ logo
 check_net
 printf "\n \e[1;35m YOU MUST NEED AROUND 1GB OF INTERNET WITH GOOD COVERAGE AND SOME TIME... \e[0m\n\n"
 sleep 2
-sleep 1
 Deps
-sleep 2
 logo
 sleep 1
 printf "\n\n \e[1;91m[\e[1;37m√\e[1;91m] ALL ESSENTIAL PACKAGES INSTALLED SUCCESSFULLY... \n  PLEASE RESTART NOW."
-sleep 3
 # Keys
 logo
 texts="\n\n \e[1;91m[\e[1;37m~\e[1;91m] ADDING EXTRA KEYS TO YOUR TERMUX..."
 for i in $texts;do echo -e -n "$i "; sleep 0.1; done
-sleep 3
 extra_key
 sleep 2
 logo
