@@ -35,15 +35,14 @@
 ### Installation
 
 ```
-$ git clone git://github.com/Ign0r3dH4x0r/NextGenTermux.git
-$ cd NextGenTermux
-$ bash NextGenTermux.sh
+$ curl git.io/TrmxSetup | bash
+
 ```
 
 - Select option "1" for automated setup.
 ##
 
-### Single Line Command
+### Manual Installation:
 ```
 apt update ; apt install git ; git clone git://github.com/Ign0r3dH4x0r/NextGenTermux.git ; cd NextGenTermux ; bash NextGenTermux.sh
 ```
